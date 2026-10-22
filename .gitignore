@@ -1,0 +1,4 @@
+db.properties
+*.class
+bin/
+out/
